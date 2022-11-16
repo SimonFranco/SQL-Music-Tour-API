@@ -5,7 +5,7 @@ const { Band , MeetGreet, Event, SetTime } = db
 
 // DEPENDENCIES 
 const { Op } = require('sequelize')
-const settime = require('../models/settime')
+const settime = require('../models/set_time')
    
 // FIND ALL BANDS
 // FIND ALL BANDS
